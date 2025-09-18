@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadtakdir
 - 👀 I’m interested in programming, ubuntu, basket ball
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning python web3
 
 <!---
 muhammadtakdir/muhammadtakdir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
