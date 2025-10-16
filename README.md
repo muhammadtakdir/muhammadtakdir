@@ -47,9 +47,9 @@
 ---
 
 ### 🌐 Featured Projects
-- 🔗 [Blockchain-based Transformer Monitoring System](https://github.com/muhammadtakdir/transformer-monitoring)
-- 🧠 [Smart Contract Integration with Python + Web3](https://github.com/muhammadtakdir/web3-python-demo)
-- 🌡️ [IoT Temperature Sensor with Chainlink & Cardano](https://github.com/muhammadtakdir/iot-blockchain)
+- 🔗 [Blockchain-based Transformer Monitoring System](https://github.com/muhammadtakdir/Monitoring-Distribution-Transformer-With-IoT-and-Cardano)
+- 🧠 [Build with Base - Eth](https://github.com/muhammadtakdir/my-erc20-project)
+- 🌡️ [Smart Agri for smart farmer](https://github.com/muhammadtakdir/smart_agri)
 
 ---
 
