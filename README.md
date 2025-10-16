@@ -11,7 +11,7 @@
 - 👀 I’m interested in **programming**, **Ubuntu/Linux**, and **basketball**.  
 - 🌱 I’m currently learning **Python**, **Web3**, **Ethereum**, **Base**, and **Cardano**.  
 - 💡 Passionate about combining **IoT + Blockchain** for real-world solutions.  
-- 📫 Reach me on: [LinkedIn](https://linkedin.com/in/muhammadtakdir) or [Email](mailto:your@email.com)
+- 📫 Reach me on: [LinkedIn](https://linkedin.com/in/muhammadtakdir) or [Email](mailto:muhammad.takdir@gmail.com)
 
 ---
 
